@@ -1,3 +1,7 @@
+This is my uni 2nd year Applied AI project in which I made a piece of software which tracks hands, recognises gestures and uses these gestures to perform actions on the
+computer, i did this using OpenCV, MediaPipe and Pyautogui.
+
+Project Aims:
 Create Hand tracking software in python using OpenCV and MediaPipe.
 Use this software to recognise gestures.
 Use Pyautogui with these gestures to perform actions on the computer.
