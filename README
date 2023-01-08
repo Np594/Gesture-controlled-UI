@@ -1,1 +1,3 @@
-
+Create Hand tracking software in python using OpenCV and MediaPipe
+Use this software to recognise gestures
+Use Pyautogui with these gestures to perform actions on the computer
